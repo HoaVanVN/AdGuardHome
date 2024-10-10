@@ -22,6 +22,7 @@
   <a href="https://goreportcard.com/report/AdguardTeam/AdGuardHome">
     <img src="https://goreportcard.com/badge/github.com/AdguardTeam/AdGuardHome" alt="Go Report Card"/>
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FHoaVanVN%2FAdGuardHome?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FHoaVanVN%2FAdGuardHome.svg?type=shield"/></a>
   <a href="https://hub.docker.com/r/adguard/adguardhome">
     <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/adguard/adguardhome.svg?maxAge=604800"/>
   </a>
@@ -407,3 +408,7 @@ For the full list of all Node.js packages in use, please take a look at [`client
 Our main idea is that you are the one, who should be in control of your data. So it is only natural, that AdGuard Home does not collect any usage statistics, and does not use any web services unless you configure it to do so. See also the [full privacy policy][privacy] with every bit that *could in theory be sent* by AdGuard Home is available.
 
 [privacy]: https://adguard.com/en/privacy/home.html
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHoaVanVN%2FAdGuardHome.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHoaVanVN%2FAdGuardHome?ref=badge_large)
